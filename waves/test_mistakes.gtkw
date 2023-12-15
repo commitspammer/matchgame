@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Fri Dec  1 20:59:20 2023
+[*]
+[dumpfile] "/home/friend/Desktop/CL/trabalho-02/test_mistakes.ghw"
+[dumpfile_mtime] "Fri Dec  1 20:58:57 2023"
+[dumpfile_size] 12008
+[savefile] "/home/friend/Desktop/CL/trabalho-02/test_mistakes.gtkw"
+[timestart] 0
+[size] 1887 1044
+[pos] -1 -1
+*-25.000000 78000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.test_mistakes.
+[treeopen] top.test_mistakes.dut.
+[sst_width] 212
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 304
+@29
+#{top.test_mistakes.keys[15:0]} top.test_mistakes.keys[15] top.test_mistakes.keys[14] top.test_mistakes.keys[13] top.test_mistakes.keys[12] top.test_mistakes.keys[11] top.test_mistakes.keys[10] top.test_mistakes.keys[9] top.test_mistakes.keys[8] top.test_mistakes.keys[7] top.test_mistakes.keys[6] top.test_mistakes.keys[5] top.test_mistakes.keys[4] top.test_mistakes.keys[3] top.test_mistakes.keys[2] top.test_mistakes.keys[1] top.test_mistakes.keys[0]
+@28
+[color] 1
+top.test_mistakes.clk
+@420
+top.test_mistakes.dut.pc0.state
+@22
+#{top.test_mistakes.s0[6:0]} top.test_mistakes.s0[6] top.test_mistakes.s0[5] top.test_mistakes.s0[4] top.test_mistakes.s0[3] top.test_mistakes.s0[2] top.test_mistakes.s0[1] top.test_mistakes.s0[0]
+#{top.test_mistakes.s1[6:0]} top.test_mistakes.s1[6] top.test_mistakes.s1[5] top.test_mistakes.s1[4] top.test_mistakes.s1[3] top.test_mistakes.s1[2] top.test_mistakes.s1[1] top.test_mistakes.s1[0]
+#{top.test_mistakes.s2[6:0]} top.test_mistakes.s2[6] top.test_mistakes.s2[5] top.test_mistakes.s2[4] top.test_mistakes.s2[3] top.test_mistakes.s2[2] top.test_mistakes.s2[1] top.test_mistakes.s2[0]
+#{top.test_mistakes.s3[6:0]} top.test_mistakes.s3[6] top.test_mistakes.s3[5] top.test_mistakes.s3[4] top.test_mistakes.s3[3] top.test_mistakes.s3[2] top.test_mistakes.s3[1] top.test_mistakes.s3[0]
+#{top.test_mistakes.s4[6:0]} top.test_mistakes.s4[6] top.test_mistakes.s4[5] top.test_mistakes.s4[4] top.test_mistakes.s4[3] top.test_mistakes.s4[2] top.test_mistakes.s4[1] top.test_mistakes.s4[0]
+#{top.test_mistakes.s5[6:0]} top.test_mistakes.s5[6] top.test_mistakes.s5[5] top.test_mistakes.s5[4] top.test_mistakes.s5[3] top.test_mistakes.s5[2] top.test_mistakes.s5[1] top.test_mistakes.s5[0]
+#{top.test_mistakes.s6[6:0]} top.test_mistakes.s6[6] top.test_mistakes.s6[5] top.test_mistakes.s6[4] top.test_mistakes.s6[3] top.test_mistakes.s6[2] top.test_mistakes.s6[1] top.test_mistakes.s6[0]
+#{top.test_mistakes.s7[6:0]} top.test_mistakes.s7[6] top.test_mistakes.s7[5] top.test_mistakes.s7[4] top.test_mistakes.s7[3] top.test_mistakes.s7[2] top.test_mistakes.s7[1] top.test_mistakes.s7[0]
+#{top.test_mistakes.s8[6:0]} top.test_mistakes.s8[6] top.test_mistakes.s8[5] top.test_mistakes.s8[4] top.test_mistakes.s8[3] top.test_mistakes.s8[2] top.test_mistakes.s8[1] top.test_mistakes.s8[0]
+#{top.test_mistakes.s9[6:0]} top.test_mistakes.s9[6] top.test_mistakes.s9[5] top.test_mistakes.s9[4] top.test_mistakes.s9[3] top.test_mistakes.s9[2] top.test_mistakes.s9[1] top.test_mistakes.s9[0]
+#{top.test_mistakes.s10[6:0]} top.test_mistakes.s10[6] top.test_mistakes.s10[5] top.test_mistakes.s10[4] top.test_mistakes.s10[3] top.test_mistakes.s10[2] top.test_mistakes.s10[1] top.test_mistakes.s10[0]
+#{top.test_mistakes.s11[6:0]} top.test_mistakes.s11[6] top.test_mistakes.s11[5] top.test_mistakes.s11[4] top.test_mistakes.s11[3] top.test_mistakes.s11[2] top.test_mistakes.s11[1] top.test_mistakes.s11[0]
+#{top.test_mistakes.s12[6:0]} top.test_mistakes.s12[6] top.test_mistakes.s12[5] top.test_mistakes.s12[4] top.test_mistakes.s12[3] top.test_mistakes.s12[2] top.test_mistakes.s12[1] top.test_mistakes.s12[0]
+#{top.test_mistakes.s13[6:0]} top.test_mistakes.s13[6] top.test_mistakes.s13[5] top.test_mistakes.s13[4] top.test_mistakes.s13[3] top.test_mistakes.s13[2] top.test_mistakes.s13[1] top.test_mistakes.s13[0]
+#{top.test_mistakes.s14[6:0]} top.test_mistakes.s14[6] top.test_mistakes.s14[5] top.test_mistakes.s14[4] top.test_mistakes.s14[3] top.test_mistakes.s14[2] top.test_mistakes.s14[1] top.test_mistakes.s14[0]
+#{top.test_mistakes.s15[6:0]} top.test_mistakes.s15[6] top.test_mistakes.s15[5] top.test_mistakes.s15[4] top.test_mistakes.s15[3] top.test_mistakes.s15[2] top.test_mistakes.s15[1] top.test_mistakes.s15[0]
+[pattern_trace] 1
+[pattern_trace] 0
